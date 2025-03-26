@@ -1,0 +1,115 @@
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\obj\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\BLL\obj\Debug\BLL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\BLL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\BLL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\DAL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\DEL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\UTL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\DAL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\DEL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\bin\Debug\UTL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\obj\Debug\BLL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\obj\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\obj\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\obj\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\obj\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\BLL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DAL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DEL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\UTL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\BLL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\BLL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DAL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DEL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\UTL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DAL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\DEL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\bin\Debug\UTL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\BLL\obj\Debug\BLL.pdb

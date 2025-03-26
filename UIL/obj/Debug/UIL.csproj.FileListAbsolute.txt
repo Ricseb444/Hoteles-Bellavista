@@ -1,0 +1,193 @@
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.1\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\BLL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\DEL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\DAL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\UTL.dll
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\BLL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\DEL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\DAL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\bin\Debug\UTL.pdb
+C:\Users\raindebian\Desarrollo\Proyecto_Final\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.4\Hoteles\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.5\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.7\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.8\Hoteles\UIL\obj\Debug\UIL.ReservacionesForm.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\BLL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DAL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DEL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\UTL.dll
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.ReservacionesForm.resources
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\❤️ Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\BLL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DAL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DEL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\UTL.dll
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.ReservacionesForm.resources
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.CopyComplete
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\Ingeniería en Sistemas\Cuatri #4\Programación III\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe.config
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.exe
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\Reservación Hotelera.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\BLL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DAL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DEL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\UTL.dll
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\BLL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DAL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\DEL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\bin\Debug\UTL.pdb
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.AssemblyReference.cache
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.CRUD.resources
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.FrmMainMenu.resources
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.Properties.Resources.resources
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.ReservacionesForm.resources
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\UIL.csproj.Up2Date
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\Reservación Hotelera.exe
+D:\Desarrollo\Cuatri 4\Trabajos Propios\Versiones del proyecto\V1.0.9\Hoteles\UIL\obj\Debug\Reservación Hotelera.pdb
